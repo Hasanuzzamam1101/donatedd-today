@@ -1,0 +1,180 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+.help{
+    font-size: 50px;
+    padding-top: 3px;
+    text-align: center;
+    color: blueviolet;
+}
+.invite{
+    background-image: url(image/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+    height: 100vh;
+    width: 75%;
+    padding-left: 30%;
+    padding-top: 15%;
+    
+    text-align: center;
+}
+
+.text{
+    width: 70%;
+    text-align: center;
+}
+.button-type{
+    text-decoration: none;
+    background-image: linear-gradient( rgb(165, 139, 92) , tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight:700;
+    border-radius: 5px;
+}
+.text-color{
+    text-align: center;
+    padding-left: 5%;
+    color: chartreuse;
+}
+.text1{
+    
+    text-align: center;
+    padding: 0px;
+    margin: 5px;
+  
+    
+    
+}
+span{
+    width: 30px;
+    height: 40px;
+    padding:  20px 30px;
+    margin: 10px;
+    border: 1px solid salmon;
+    text-align: center;
+}
+#pink{
+    background-color: lightpink;
+    border: 1px solid orange;
+}
+.wrapper{
+    display: flex;
+    width: 50%;
+    margin-bottom: 50px;
+    text-align: center;
+    padding-left: 30%;
+}
+input{
+    width: 40%;
+    padding: 20px 12px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid black;
+    text-align: center;
+    font-size: 20px;
+}
+.align-text{
+
+    margin-left: 400px;
+    width: 100%;
+}
+.button-type1{
+
+
+width: 10%;
+    text-decoration: none;
+    background-image: linear-gradient( rgb(165, 139, 92) , tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight:700;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin: auto;
+    display: flex;
+}
+.flexible-container{
+    display: flex;
+    margin-left: 150px;
+}
+.plan{
+    background-image: url(images/exp-bg.png);
+background-repeat: no-repeat;
+background-position: left;
+}
+.need{
+    width: 40%;
+    margin-left:5%;
+    margin-right:5%;
+    padding-left:20px;
+    border-radius: 10px;
+background-color: blue;
+   
+
+}
+.text2{
+    width: 70%;
+    text-align: center;
+}
+.invite1{
+    
+    background-repeat: no-repeat;
+   
+    color: aliceblue;
+    height: 100%;
+    width: 50%;
+    padding-left: 30%;
+    padding-top: 15%;
+    margin-bottom: 10%;
+    
+    
+    text-align: center;
+}
+.box input{
+    background-color: #d9d9d9;
+    border: none;
+    width: 60%;
+    height: 40px;
+    padding-left: 2%;
+    outline: none;
+    border-radius: 3px;
+}
+.box button{
+    background-color: #FF5959;
+    border: none;
+    width: 25%;
+    height: 40px;
+    margin-left: -3%;
+    padding-left: 2%;
+    outline: none;
+    color: #FFFFFF;
+    border-radius: 3px;
+    margin-right: 5%;
+}
+footer{
+    background: #000;
+    padding-bottom: 10%;
+    height: 80px;
+    margin-top: 2%;
+
+}
+.footb-text{
+    color: #FF5959;
+    text-align: center;
+    padding-top: 2%;
+   font-family: 'Lobster',cursive;
+   font-size: 35px;
+}
+.footlow-text{
+    color: gray;
+    text-align: center;
+    padding-top: 2%;
+}
+
+.foot{
+    padding-top: 7%;
+}
